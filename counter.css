@@ -155,3 +155,41 @@ margin-right: 30px;
 
 
 }
+
+@media screen and (max-width:995px){
+
+#header{
+
+	width: 100%;
+}	
+
+.section{
+
+	width: 80%;
+}
+
+.sec-a{
+
+	width: 80%;
+
+
+
+}
+
+.section1{
+
+	width: 80%;
+}
+
+.section2{
+
+	width: 80%;
+
+}
+
+.even-odd{
+
+	width: 100%;
+}
+
+}
